@@ -5,7 +5,7 @@
 <a href="https://twitter.com/smokelaboratory">
   <img align="left" alt="Sumeet's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://in.linkedin.com/in/sumeet-rukeja-7a9b5711b">
+<a href="https://in.linkedin.com/in/smokelaboratory">
   <img align="left" alt="Sumeet's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/smokelaboratory">
@@ -22,7 +22,7 @@
 - ❤️  I'm a F.R.I.E.N.D.S fan and a Gamer.
 
 [![Twitter: smokelaboratory](https://img.shields.io/twitter/follow/smokelaboratory?style=social)](https://twitter.com/smokelaboratory)
-[![Linkedin: smokelaboratory](https://img.shields.io/badge/-smokelaboratory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/sumeet-rukeja-7a9b5711b/)](https://in.linkedin.com/in/sumeet-rukeja-7a9b5711b)
+[![Linkedin: smokelaboratory](https://img.shields.io/badge/-smokelaboratory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/smokelaboratory/)](https://in.linkedin.com/in/smokelaboratory)
 [![GitHub smokelaboratory](https://img.shields.io/github/followers/smokelaboratory?label=follow&style=social)](https://github.com/smokelaboratory)
 
 
