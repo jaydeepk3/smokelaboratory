@@ -1,6 +1,18 @@
 ## Hey there, I'm Sumeet Rukeja 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smokelaboratory&label=Views&color=blue&style=plastic" alt="smokelaboratory" /> </p>
+  
+<br/>
+<br/>
+
+- 💼  I’m currently working at [Yudiz](https://www.yudiz.com/).
+- 🔍  I’m exploring Jetpack Compose and KMM.
+- 🤩  I'm curious about Augmented Reality and Neural Networks.
+- 💬  Ask me about Android or Flutter.
+- ❤️  I'm a F.R.I.E.N.D.S fan and a Gamer.
+  
+<br/>
+<br/>
 
 **Me on Internet:**
 
@@ -13,15 +25,6 @@
 <a href="https://github.com/smokelaboratory">
   <img align="left" alt="Sumeet's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-  
-<br/>
-<br/>
-
-- 💼  I’m currently working at [Yudiz](https://www.yudiz.com/).
-- 🔍  I’m exploring Jetpack Compose and KMM.
-- 🤩  I'm curious about Augmented Reality and Neural Networks.
-- 💬  Ask me about Android or Flutter.
-- ❤️  I'm a F.R.I.E.N.D.S fan and a Gamer.
 
 [![Twitter: smokelaboratory](https://img.shields.io/twitter/follow/smokelaboratory?style=social)](https://twitter.com/smokelaboratory)
 [![Linkedin: smokelaboratory](https://img.shields.io/badge/-smokelaboratory-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://in.linkedin.com/in/smokelaboratory/)](https://in.linkedin.com/in/smokelaboratory)
