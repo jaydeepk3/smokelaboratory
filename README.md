@@ -1,8 +1,7 @@
 ## Hey there, I'm Sumeet Rukeja 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smokelaboratory&label=Views&color=blue&style=plastic" alt="smokelaboratory" /> </p>
-  
-<br/>
+
 <br/>
 
 - 💼  I’m currently working at [Yudiz](https://www.yudiz.com/).
@@ -11,7 +10,6 @@
 - 💬  Ask me about Android or Flutter.
 - ❤️  I'm a F.R.I.E.N.D.S fan and a Gamer.
   
-<br/>
 <br/>
 
 **Me on Internet:**
